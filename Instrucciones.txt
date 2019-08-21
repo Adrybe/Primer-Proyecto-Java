@@ -1,0 +1,4 @@
+El mago se mueve con las teclas "Izquierda" y "Derecha". Cada vez que caiga por una viga llena una porcion de su 
+ataque especial. Una vez llena la barra con la tecla "Barra Espacio" el mago lanza su hechizo en circulo alrededor
+suyo. Aleatoriamente van apareciendo vidas en el escenario. Los monstruos mueren cuando son alcanzados por un hechizo
+congelante del mago y luego si son empujados.
